@@ -6,4 +6,4 @@ Fictive newsletter
 
 Link 🔗
 
-https://lesliecop94.github.io/Marvel/
+https://lesliecop94.github.io/marvel/
